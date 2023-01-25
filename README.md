@@ -9,8 +9,8 @@ My name is André and I am a computer engineering undergrad at Federal Universit
 
 <div align="center">
   <a href="https://github.com/andre-meneses">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre-meneses&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-meneses&layout=compact&langs_count=7&theme=github_dark"/></a>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andre-meneses&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andre-meneses&layout=compact&langs_count=7&theme=github_dark"/></a>
 </div>
 
 <!--
