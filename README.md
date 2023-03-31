@@ -4,7 +4,6 @@ My name is André and I am a computer engineering undergrad at Federal Universit
 - 🔭 I’m currently working as a researcher at UFRN.
 - 🌱 I’m currently learning about **deep learning models** in seismic processing. 
 - 👯 I’m looking to collaborate on data science and machine learning projects.
-- 💬 Ask me about computer science and mathematics. 
 - 📫 How to reach me: andre.meneses.110@ufrn.edu.br
 
 <div align="center">
