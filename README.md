@@ -1,9 +1,6 @@
 ### Hi there 👋
-My name is André and I am a computer engineering undergrad at Federal University of Rio Grande do Norte (UFRN). I am a curious person and I enjoy learning about the underlying principles upon which technologies are built. Currently, I am doing research on Machine Learning Models on first-break picking, an important task in seismic signals processing. 
-
-- 🔭 I’m currently working as a researcher at UFRN.
-- 🌱 I’m currently learning about **deep learning models** in seismic processing. 
-- 👯 I’m looking to collaborate on data science and machine learning projects.
+- Computer engineering undergrad at Federal University of Rio Grande do Norte (UFRN). 
+- Currently, I am doing research on Machine Learning Models on applied to geophysics problems.
 - 📫 How to reach me: andre.meneses.110@ufrn.edu.br
 
 <div align="center">
