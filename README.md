@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=dinizmaths&style=for-the-badge)
 - Computer engineering undergrad at Federal University of Rio Grande do Norte (UFRN). 
 - Currently, I am doing research on Machine Learning Models applied to geophysics problems.
 - 📫 How to reach me: andre.meneses.110@ufrn.edu.br
