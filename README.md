@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 
 ![](https://komarev.com/ghpvc/?username=andre-meneses&style=for-the-badge)
-- Computer engineering undergrad at Federal University of Rio Grande do Norte (UFRN). 
-- Currently, I am doing research on Machine Learning Models applied to geophysics problems.
-- 📫 How to reach me: andre.meneses.110@ufrn.edu.br
-
+- PhD student in Computer Engineering at Polytechnique Montréal.
+- Researching Machine Learning and Optimization applied to scientific and industrial problems.
+- How to reach me: andre.meneses.110@ufrn.edu.br
+- 
 <div align="center">
   <a href="https://github.com/andre-meneses">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andre-meneses&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
