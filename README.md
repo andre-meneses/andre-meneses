@@ -1,8 +1,8 @@
 ### Hi there 
 ![](https://komarev.com/ghpvc/?username=andre-meneses&style=for-the-badge)
 - PhD student in Computer Engineering at Polytechnique Montréal.
-- Researching Machine Learning and Optimization applied to exact partitioning problems.
-- How to reach me: andre.meneses.110@ufrn.edu.br
+- Researching optimization on Latent Spaces
+- How to reach me: andre.meneses@polymtl.ca
   
 <div align="center">
   <a href="https://github.com/andre-meneses">
