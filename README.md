@@ -1,4 +1,3 @@
-```markdown
 ### Hi there
 
 ![](https://komarev.com/ghpvc/?username=andre-meneses&style=for-the-badge)
@@ -13,7 +12,6 @@
     <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=andre-meneses&layout=compact&langs_count=7&theme=github_dark"/>
   </a>
 </div>
-```
 
 
 <!--
